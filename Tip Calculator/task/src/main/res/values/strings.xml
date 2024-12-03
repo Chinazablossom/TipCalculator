@@ -3,4 +3,6 @@
     <string name="insert_bill_value">Insert Bill Value</string>
     <string name="billValue">Bill Value: $%.2f</string>
     <string name="percent">Tip: %d%%</string>
+    <string name="amount">Tip Amount: $%.2f</string>
+
 </resources>
